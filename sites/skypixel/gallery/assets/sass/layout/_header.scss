@@ -1,0 +1,16 @@
+///
+/// Lens by HTML5 UP
+/// https://rodrigosantucci.github.io | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (https://rodrigosantucci.github.io/license)
+///
+
+/* Header */
+
+	#header {
+		@include padding(3em, 2.25em);
+
+		h1 {
+			font-size: 2.25em;
+			font-weight: _font(weight-bold);
+		}
+	}
